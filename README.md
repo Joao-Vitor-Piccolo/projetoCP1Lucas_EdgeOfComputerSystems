@@ -1,5 +1,5 @@
 
-# README Projeto CP1 Lucas Edge Of Computer System
+# Projeto CP1 Lucas Edge Of Computer System
 Solução em arduino para controle de luminosidade de vinhos.
 
 ### Código: 
